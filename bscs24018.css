@@ -1,0 +1,10 @@
+.first-div{
+    Width: 500px;
+    Height: 500px;
+    Background-color: lightpink ;
+    Border-width: 3px;
+    Border-color: orange;
+    Border-radius: 20%;
+    Margin: 10px;
+    Padding: 5px;
+}
