@@ -8,3 +8,11 @@
     Margin: 10px;
     Padding: 5px;
 }
+
+.normal-para{
+    color : green;
+}
+
+.fav-para{
+    color: purple;
+}
